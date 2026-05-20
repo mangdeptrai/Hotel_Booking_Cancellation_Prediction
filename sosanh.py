@@ -1,7 +1,3 @@
-# =========================================================
-# SO SANH CAC MO HINH - THANH VIEN 4 vs THANH VIEN 5
-# =========================================================
-
 import warnings
 import pandas as pd
 import matplotlib.pyplot as plt
